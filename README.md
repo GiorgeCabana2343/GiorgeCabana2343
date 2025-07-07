@@ -1,7 +1,7 @@
-<h1>Hello! I'm Giorge Cabana <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> 🚀</h1>
-<h3>Backend Developer from Peru 🇵🇪</h3>
+<h1 align="center">Hello! I'm Giorge Cabana <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> 🚀</h1>
+<h3 align="center">Backend Developer from Peru 🇵🇪</h3>
 
----
+<br>
 
 ## 🧑‍💻 About Me
 I am a passionate backend developer, organized and always seeking to innovate. I enjoy building robust APIs and services, working with scalable architectures and collaborating in agile teams. I'm constantly learning and improving my skills to deliver efficient and high-quality solutions.
