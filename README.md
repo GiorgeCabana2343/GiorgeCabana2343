@@ -42,9 +42,9 @@ I am a passionate backend developer, organized and always seeking to innovate. I
 ---
 
 ## 💼 Experience & Formation
-I specialize in building REST APIs and microservices with **NestJS**, **Node.js** and **TypeScript**, following clean architecture patterns (Hexagonal).  
-I have experience integrating payment gateways (Culqi), e-invoicing (Nubefact), geolocation services, WhatsApp Meta API and AWS (Lambda, EC2, S3, CloudWatch).  
-I studied **Computación e Informática** at **Cibertec**, gaining solid knowledge in backend and frontend development, databases and agile methodologies.
+- I specialize in building **REST APIs** and **microservices** with **NestJS**, **Node.js** and **TypeScript**, following clean architecture patterns (Hexagonal).
+- I have experience integrating **payment gateways (Culqi)**, **e-invoicing (Nubefact)**, **geolocation services**, **WhatsApp Meta API**, and working with **AWS** (Lambda, EC2, S3, CloudWatch).
+- I studied **Computación e Informática** at **Cibertec**, gaining solid knowledge in **backend and frontend development**, **databases**, and **agile methodologies**.
 
 ---
 
