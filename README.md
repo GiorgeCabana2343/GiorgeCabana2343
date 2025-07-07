@@ -50,7 +50,7 @@ I studied **Computación e Informática** at **Cibertec**, gaining solid knowled
 
 ## 📫 Contact Me
 <p>
-  <a href="https://www.linkedin.com/in/maurovera/">
+  <a href="https://www.linkedin.com/in/giorge-stuard-cabana-cribillero-697704267/">
     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin">
   </a>
   <a href="mailto:giorgestuardcc@gmail.com">
