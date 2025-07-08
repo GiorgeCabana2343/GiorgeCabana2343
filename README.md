@@ -4,9 +4,12 @@
 <br>
 
 ## 🧑‍💻 About Me
-I am a passionate backend developer, organized and always seeking to innovate. I enjoy building robust APIs and services, working with scalable architectures and collaborating in agile teams. I'm constantly learning and improving my skills to deliver efficient and high-quality solutions.
+- Passionate about backend development and building robust, scalable APIs.
+- Experienced in integrating third-party services like payment gateways and messaging APIs.
+- Proficient in designing architectures with NestJS, Node.js, TypeScript and Docker.
+- Committed to continuous learning and improving my skills to deliver efficient solutions.
 
----
+<br>
 
 ## 🚀 Specialties
 
@@ -41,27 +44,7 @@ I am a passionate backend developer, organized and always seeking to innovate. I
 ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
 
----
-
-## 💼 Experience & Education
-- Specialized in building **REST APIs** and **microservices** with **NestJS**, **Node.js**, and **TypeScript**, applying **Hexagonal Architecture**.
-- Integrated **payment gateways (Culqi)**, **e-invoicing (Nubefact)**, **WhatsApp Meta API**, geolocation services, and **AWS** (Lambda, EC2, S3, CloudWatch).
-- Developed in **containerized environments** using **Docker**, following best practices with **Git** and agile methodologies.
-- Studied **Computación e Informática** at **Cibertec**, gaining strong knowledge in backend & frontend, databases, and agile development.
-
----
-
-## 📫 Contact Me
-<p>
-  <a href="https://www.linkedin.com/in/giorge-stuard-cabana-cribillero-697704267/">
-    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin">
-  </a>
-  <a href="mailto:giorgestuardcc@gmail.com">
-    <img alt="Email" src="https://img.shields.io/badge/Gmail-giorgestuardcc@gmail.com-D14836?style=flat-square&logo=gmail">
-  </a>
-</p>
-
----
+<br>
 
 ## ⚡ GitHub Stats
 <p align="center">
