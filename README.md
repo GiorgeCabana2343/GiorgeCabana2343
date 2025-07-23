@@ -1,4 +1,4 @@
-<h1 align="center">Hello! I'm Giorge Cabana <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> 🚀</h1>
+<h1 align="center">Hello! I'm George Cabana <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> 🚀</h1>
 <h3 align="center">Backend Developer from Peru 🇵🇪</h3>
 
 <br>
